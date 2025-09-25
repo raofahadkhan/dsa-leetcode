@@ -1,5 +1,3 @@
-# IMPLEMENTATION OF HASH MAP USING LISTS:-
-
 class StudentScores:
     
     def __init__(self, size = 10):
