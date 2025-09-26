@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/valid-parentheses/?utm_source=instabyte.io&utm_medium=referral&utm_campaign=interview-master-100">20. Valid Parentheses</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code> containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 
-<p>An input string is valid if:</p>
+<p>An input string is valid if :</p>
 
 <ol>
 	<li>Open brackets must be closed by the same type of brackets.</li>
